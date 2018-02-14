@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 13 15:26:20 MST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0161-9146-a0b3-0000068686f8 
+on database directory C:\Users\jake_\OneDrive\Desktop\Bootcamp\Projects\deep-dive-db-intro\db\scheduling with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jake_/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_162-b12
+user.dir=C:\Users\jake_\OneDrive\Desktop\Bootcamp\Projects\deep-dive-db-intro
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
